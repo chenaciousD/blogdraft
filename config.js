@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by Daniel Chen',
+  title: 'Blog by Daniel A Chen',
   subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
@@ -25,7 +25,7 @@ module.exports = {
     }
   ],
   author: {
-    name: 'Daniel Chen',
+    name: 'Daniel A. Chen',
     photo: '/photo.jpg',
     bio: 'Daniel Chen is a designer, entrepreneur, polymath based in San Francisco, Abu Dhabi and New York.',
     contacts: {
