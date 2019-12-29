@@ -32,7 +32,8 @@
 
     &:hover,
     &:focus {
-      color: $color-primary;
+      color: green;
+      background-color: red;
     }
 
   }
